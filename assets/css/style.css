@@ -1,0 +1,19 @@
+.nav{
+    margin: auto;
+    background-color:darkblue;
+    font-size: 15px;
+    height: 100px;
+    
+
+}
+#navbar-brand{
+    color: white;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+}
+.footer{
+    margin: auto;
+    
+}
